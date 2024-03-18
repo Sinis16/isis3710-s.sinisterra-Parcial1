@@ -1,0 +1,9 @@
+{
+    "Id": "Id",
+    "Marca": "Marca",
+    "Linea": "Linea",
+    "Modelo": "Modelo",
+    "Kilometraje": "Kilometraje",
+    "Color": "Color",
+    "Referencia": "Referencia"
+}
